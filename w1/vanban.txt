@@ -1,2 +1,0 @@
-The purpose of this answer is to provide a single point of reference for the syntactical differences between C# and JS. It is mainly for people who have already made their decision as to which language to use, and might need to know the differences (for instance, to translate a script from one language to another).
-If you want to know more about why you might choose one language over another in Unity, there are several other questions
